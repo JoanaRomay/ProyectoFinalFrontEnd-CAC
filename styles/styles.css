@@ -1,0 +1,53 @@
+:root{
+     --color-azul: #1a3745;
+     --color-verde1: #96c93e;
+     --color-verde2: #37a147;
+     font-size: 10px;
+     overflow-x: hidden;
+}
+
+.slide img {
+   height: 85vh;
+}
+.container-texto{
+    margin-right: 15rem; /*le agregue margin desde los estilos porque ms-5 no me daba el margen deseado*/
+}  
+
+.texto-banner-uno{
+    font-size: 4rem;
+}
+.texto-banner-dos {
+    font-size: 1.5rem;
+}
+.img-banner{
+    filter: brightness(50%);
+}
+
+.boton-banner{
+    background-color: var(--color-verde2) !important;
+}
+.boton-formulario{
+    background-color: var(--color-verde1) !important;
+}
+
+.footer{
+    background-color: var(--color-azul);
+}
+
+.carousel-caption {
+    position: absolute;
+    top: 25rem;
+    /* Cambiar bottom por top y los píxeles que necesites */
+   ;
+    
+    /* Añadir para conseguir el fondo con opacidad */
+}
+@media only screen and (max-width: 575px) {
+    .caja{
+        display: flex;
+        justify-content: end;
+    }
+    .texto-banner-dos{
+        font-size: 1.5rem;
+    }
+}

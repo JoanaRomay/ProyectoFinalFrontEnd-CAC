@@ -1,0 +1,30 @@
+/*elijo los colores de la img y el tamaño de la fuente para usar rem*/
+:root {
+    --color-azul: #1a3745;
+    --color-verde1: #96c93e;
+    --color-verde2: #37a147;
+    font-size: 10px;
+    overflow-x: hidden;
+    box-sizing: border-box;
+}
+/*fijo el footer*/
+body{
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
+}
+main{
+    flex-grow: 1;
+}
+
+.card-descuento:hover{
+    -webkit-transform: scale(1.3);
+        transform: scale(1.04);
+}
+/*implemento el color al los botones del form y al footer segun la img*/
+.boton-formulario {
+    background-color: var(--color-verde1) !important;
+}
+.footer {
+    background-color: var(--color-azul);
+}
