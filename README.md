@@ -8,8 +8,8 @@ Trabajo Práctico Integrador Front-End hecho con HTML, CSS, BOOTSTRAP Y JAVASCRI
 [![mobile.png](https://i.postimg.cc/rw9CyRkB/mobile.png)](https://postimg.cc/3kdDnRW1)
 
 
-
-**Desarrollo FullStack con Java de Codo a Codo**
+ 
+**Desarrollo FullStack con Java de Codo a Codo 4.0**
 
 **Netlify:** https://conferencia-bsas.netlify.app/
 
