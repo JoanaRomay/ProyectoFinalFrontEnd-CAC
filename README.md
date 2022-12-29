@@ -2,8 +2,6 @@
 
 Realizado en HTML, CSS, BOOTSTRAP, JAVASCRIPT VANILLA.
 # Vista preliminar inicial de la página en desktop
-[![mobile.png](https://i.postimg.cc/CMDvT1Rg/mobile.png)](https://postimg.cc/qgJc2pcb)
-# Vista preliminar inicial de la página en mobile
-[![mobile.png](https://i.postimg.cc/CMDvT1Rg/mobile.png)](https://postimg.cc/qgJc2pcb)
+[![mobile-1.png](https://i.postimg.cc/3N72H3q8/mobile-1.png)](https://postimg.cc/9R8DdHVK)
 
 Netlify: https://conferencia-bsas.netlify.app/
